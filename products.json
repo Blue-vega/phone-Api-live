@@ -1,0 +1,39 @@
+[
+    {
+        "name":"iphone 14 proMax",
+        "price": 154000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"realme 6pro",
+        "price": 15400,
+        "featured":false,
+        "company":"realme"
+    },
+    {
+        "name":"samsung A9",
+        "price": 35000,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"nothing Phone 1",
+        "price": 25000,
+        "featured":true,
+        "company":"nothing"
+    },
+    {
+        "name":"mi",
+        "price": 16400,
+        "featured":false,
+        "company":"mi"
+    },
+    {
+        "name":"oneplus 9t pro",
+        "price": 154,
+        "featured":true,
+        "company":"oneplus"
+    }
+
+]
